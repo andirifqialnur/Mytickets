@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Tiket Online</string>
+
+    //SplashAct
+    <string name="slogan">Wisata Jadi Lebih Asyik!</string>
+
+    //GetStartedAct
+    <string name="new_account">New Account</string>
+    //button
+    <string name="notes_G_S">Discover\nThe Beauty\nOF Earth</string>
+
+    //RegisterOneAct
+    <string name="notes_R_O">Please fill up the forms below \nfor informations</string>
+    //Form RegisterOneAct
+    <string name="email_label">Email Address</string>
+
+    //RegisterTwoAct
+    <string name="selfie_time">Selfie Time</string>
+    <string name="notes_R_T">Let the world knows yourself\nmore better and ever</string>
+    <string name="btn_plus">+</string>//button
+    //Form RegisterTwoAct
+    <string name="name_label">Name</string>
+    <string name="bio_label">Your Passion?</string>
+
+    //RegisterOneAct and RegisterTwoAct
+    <string name="btn_continue">CONTINUE</string>
+    //button
+
+    //RegisterOneAct and Sign In
+    <string name="create_new_account">Create New Account</string>
+    //button
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+
+    //SignInAct
+    <string name="signin">SIGN IN</string>
+    //button
+
+    //SuccessRegisterAct
+    <string name="you_did_it">You did it!</string>
+    <string name="notes_S_R">Welcome to Tiket Online and\nEnjoy Your Destination</string>
+    <string name="explore">Explore Now</string>
+    //button
+
+    //HomeAct
+    <string name="my_dashboard">My Dashboard</string>
+    <string name="namaku">Andi Rifqial Nur</string>
+    <string name="profesi">Hacker</string>
+    <string name="main_menus">Main Menus</string>
+    <string name="notes_main">Explore the beauty of world</string>
+    <string name="ticket_tips">TicketTips</string>
+    <string name="notes_T_T">Learn it for many benefits</string>
+
+    //TicketDetailAct
+    <string name="menara_pisa">Menara Pisa</string>
+    <string name="location">Pisa City, Italy</string>
+    <string name="information">Information</string>
+    <string name="notes_I">Knowing before travel</string>
+    <string name="notes_bawah">The leaning of the tower of Pisa is become a story</string>
+    <string name="buy_ticket">BUY TICKET</string>
+
+    //TicketCheckOut
+    <string name="notesT_C_O">Over 3 years old, must pay</string>
+
+    //TicketSuccess
+    <string name="keep_enjoy">Keep Enjoy</string>
+    <string name="notes_K_E">You have successfully\npurchased a ticket and happy vacation</string>
+    //button
+    <string name="view_tiket">VIEW TICKETS</string>
+    <string name="my_dash">MY DASHBOARD</string>
+
+
+</resources>

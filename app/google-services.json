@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "843256210437",
+    "firebase_url": "https://tiket-online-3125a.firebaseio.com",
+    "project_id": "tiket-online-3125a",
+    "storage_bucket": "tiket-online-3125a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843256210437:android:ed7008fd9a4cfc6b93e86c",
+        "android_client_info": {
+          "package_name": "com.digitalsoftware.tiketonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843256210437-ilbm23edma73rj63lnngssa2lm8smsel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitalsoftware.tiketonline",
+            "certificate_hash": "40bdce0e74d2d950a621064d7d83e4755298ef98"
+          }
+        },
+        {
+          "client_id": "843256210437-2vim3bgk76jmip0jf2t9spgmul6arpc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDatouVjJtZL71G4-2NwLsq4Ybl5v-qnKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843256210437-2vim3bgk76jmip0jf2t9spgmul6arpc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#203DD1</color>
+    <color name="blueprimary">#203DD1</color>
+    <color name="bluesecondary">#2595F5</color>
+    <color name="greenprimary">#1abc9c</color>
+    <color name="colorPrimary">#008577</color>
+
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="putihnya">#FFF</color>
+    <color name="bgprimary">#EDF1F8</color>
+    <color name="grayprimary">#8D8D8D</color>
+
+    <color name="blacktext">#21272C</color>
+
+
+</resources>
